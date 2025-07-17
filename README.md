@@ -1,4 +1,4 @@
-# Walk With Me: Climbing Gear
+# <img width="64" height="64" alt="Minimalist_Mountaineering_Emblem_simple_readme_size" src="https://github.com/user-attachments/assets/17ea2db4-af36-4752-96d1-2088e16f2da8" />   Walk With Me: Climbing Gear
 
 > *"Every ascent requires tools. Some you forge, some you find, others you inherit. "* This repo contains the gear we packed for the climb."*
 
