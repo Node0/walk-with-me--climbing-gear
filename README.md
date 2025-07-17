@@ -1,4 +1,4 @@
-# 🏔️⛏️ Walk With Me — Climbing Gear
+# Walk With Me: Climbing Gear
 
 > *"Every ascent requires tools. Some you forge, some you find, others you inherit. "* This repo contains the gear we packed for the climb."*
 
@@ -10,7 +10,7 @@ Everything here was used in practice, refined through metacognitive recursion, a
 
 ---
 
-## 🔍 Repository Structure
+## 🏛️ Repository Structure
 
 This repo is organized by **tool type** at the top level. Each folder contains submodules or toolkits targeting specific functions, platforms, or model families.
 
@@ -48,9 +48,10 @@ This repo is organized by **tool type** at the top level. Each folder contains s
 
 ---
 
-## 🧠 Folder Index
+## 📂 Folder Index
 
 ### `prompting/`
+
 Core prompts, prompt engineering scaffolds, and interaction design patterns.
 - `system_prompts/`: Persistent identity, tone, and mode configuration prompts.
 - `task_prompts/`: Disposable task-specific prompts and roleplay scaffolds.
@@ -79,7 +80,7 @@ Tools for conceptual mapping, semantic topology, and prompt flow visualization.
 
 ---
 
-## 🔎 Featured Tools
+## Featured Tools
 
 | Tool | Type | Location |
 |------|------|----------|
