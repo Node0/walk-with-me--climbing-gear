@@ -80,7 +80,7 @@ Tools for conceptual mapping, semantic topology, and prompt flow visualization.
 
 ---
 
-## Featured Tools
+## 🛠️ Featured Tools
 
 | Tool | Type | Location |
 |------|------|----------|
